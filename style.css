@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container ul li{
+    display: inline;
+    padding: 20px;
+    margin: 20px;
+}
+ul {
+    text-align: right;
+    background-color: aqua;
+    font-size: 18px;
+    nav-left:20 ;
+    padding-bottom: 20px;
+}
